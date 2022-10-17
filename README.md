@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on my personal Website  
   
 
-- 🌱 I’m currently learning ASP.NET and Angular  
+- 🌱 I’m currently learning ASP.NET and Vue.js
   
 
 - ❓ Ask me about anything related to Arduino and C#  
